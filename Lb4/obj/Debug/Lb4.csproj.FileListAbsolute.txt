@@ -1,0 +1,8 @@
+A:\programming\Lb4\Lb4\bin\Debug\Lb4.exe.config
+A:\programming\Lb4\Lb4\bin\Debug\Lb4.exe
+A:\programming\Lb4\Lb4\bin\Debug\Lb4.pdb
+A:\programming\Lb4\Lb4\obj\Debug\Lb4.csproj.AssemblyReference.cache
+A:\programming\Lb4\Lb4\obj\Debug\Lb4.csproj.SuggestedBindingRedirects.cache
+A:\programming\Lb4\Lb4\obj\Debug\Lb4.csproj.CoreCompileInputs.cache
+A:\programming\Lb4\Lb4\obj\Debug\Lb4.exe
+A:\programming\Lb4\Lb4\obj\Debug\Lb4.pdb
